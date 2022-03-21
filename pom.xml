@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>JavaCore</module>
+        <module>JavaCoreExercises</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
