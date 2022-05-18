@@ -6,22 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaCoreExercises" />
         <module name="JavaOOP" />
+        <module name="untitled" />
+        <module name="JavaCoreExercises" />
         <module name="JavaCore" />
+        <module name="Zadachki" />
+        <module name="JavaOOP_2" />
+        <module name="BankingApp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Java Introduction" target="17" />
+      <module name="Laplandia" target="14" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BankingApp" options="-parameters" />
       <module name="Java Introduction" options="-parameters" />
       <module name="JavaCore" options="-parameters" />
       <module name="JavaCoreExercises" options="-parameters" />
+      <module name="JavaCourse" options="" />
       <module name="JavaOOP" options="-parameters" />
+      <module name="JavaOOP_2" options="-parameters" />
+      <module name="Laplandia" options="-parameters" />
       <module name="Stoyan Velev Kurs" options="-parameters" />
+      <module name="Zadachki" options="-parameters" />
+      <module name="untitled" options="-parameters" />
     </option>
   </component>
 </project>

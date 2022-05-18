@@ -7,6 +7,10 @@
         <module>JavaCore</module>
         <module>JavaCoreExercises</module>
         <module>JavaOOP</module>
+        <module>MusicalInstruments</module>
+        <module>Zadachki</module>
+        <module>Laplandia</module>
+        <module>BankingApp</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
